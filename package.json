@@ -1,0 +1,12 @@
+{
+  "jspm": {
+    "dependencies": {
+      "aurelia-bootstrapper": "^0.9.3",
+      "aurelia-framework": "^0.8.5",
+      "aurelia-http-client": "^0.4.3",
+      "aurelia-router": "^0.5.3",
+      "bootstrap": "^3.3.2",
+      "font-awesome": "^4.3.0"
+    }
+  }
+}
