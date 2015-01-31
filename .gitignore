@@ -189,3 +189,4 @@ _Pvt_Extensions/
 ModelManifest.xml
 /aurelia-mvc5-demo/jspm_packages
 /packages
+/aurelia-mvc5-demo/dist
